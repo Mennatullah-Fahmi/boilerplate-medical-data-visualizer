@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 1
-df = None
+df = 25
 
 # 2
 df['overweight'] = None
